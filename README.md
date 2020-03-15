@@ -1,3 +1,3 @@
-# Loan-Calculator
+https://eddxdd.github.io/js-loan-calculator/
 
-https://eddxdd.github.io/Loan-Calculator/
+A simple loan calculator made with Javascript.
